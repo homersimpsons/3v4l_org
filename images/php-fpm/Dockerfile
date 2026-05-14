@@ -11,3 +11,5 @@ RUN set -xe; \
     docker-php-ext-install gmp; \
     rm -rf /tmp/*; \
     rm -rf /var/lib/apt/lists/*;
+
+USER 1000

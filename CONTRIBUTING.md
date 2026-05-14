@@ -10,7 +10,7 @@ This project has a `compose.yaml` file which will set up a development environme
 ## Setup
 
 1. Clone this repository
-2. Clone the [Basic_Framework](https://github.com/SjonHortensius/Basic_Framework) repository
+2. Clone the [Basic_Framework](https://github.com/SjonHortensius/Basic_Framework) repository (at the root of this repository)
   - TODO: Simplify this step
 3. Copy `config.example.ini` to `config.ini`
 4. Run `docker compose up`
